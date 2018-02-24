@@ -95,3 +95,11 @@ Case 9: GetDigit = "Nine"
 Case Else: GetDigit = ""
 End Select
 End Function
+
+
+Sub add()
+    a = 4
+    Cells(a, 2).Value = Cells(a, 2).Value + 1
+    
+
+End Sub
