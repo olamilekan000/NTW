@@ -1,5 +1,5 @@
 # Number-to-words
-An excel file which contains the source code for converting number into words with Excel VBA(source code was gotten on the internet).
+An excel file which contains the source code for converting number into words with Excel VBA (source code was gotten on the internet).
 
 ## How to:
 1. Clone on your system if you have git Installed on your machine. If not download.
