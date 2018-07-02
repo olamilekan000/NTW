@@ -1,4 +1,4 @@
-![picture](excelogo.jpg)
+![picture](excelogo.jpg | width=100)
 # NTT
 NTT is an Excel Addin which converts Numbers into Text. 
 
