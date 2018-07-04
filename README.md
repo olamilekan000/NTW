@@ -1,7 +1,6 @@
-![picture](excelogo.jpg | width=100)
 
 # NTW
-NTW is an Excel Addin which converts Numbers into Text. 
+NTW is an Excel Addin which converts Numbers into Words. 
 
 ## Usage:
 1. Clone on your system if you have git Installed on your machine. If not download.
