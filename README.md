@@ -5,7 +5,8 @@ NTW is an Excel Addin which converts Numbers into Words.
 ## Usage:
 [<p>Follow this link</p>](https://medium.com/@olamilekan001/number-to-words-with-ntw-bc3075af5a96)
 
-
+## Download:
+[<p>Follow this link</p>](https://excelntw.herokuapp.com/)
 
 ## Contributors
 
